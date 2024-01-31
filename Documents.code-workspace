@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "deepface",
+			"path": "webcrawler/deepface/deepface"
+		}
+	],
+	"settings": {}
+}

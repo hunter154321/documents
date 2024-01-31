@@ -1,0 +1,9 @@
+.idea
+venv
+__pycache__
+data/*
+output/*
+settingslocal.py
+.env
+bridges
+mongodb_data
